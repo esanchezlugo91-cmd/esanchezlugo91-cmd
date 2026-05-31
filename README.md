@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Eduardo Sánchez</h1>
-<h3 align="center">Senior QA Automation Engineer · SDET</h3>
+<h3 align="center">Senior QA Automation Engineer · SDET · Core: Playwright y Python</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-alejandro-sanchez-lugo/">
