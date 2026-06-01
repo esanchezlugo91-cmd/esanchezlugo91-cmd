@@ -16,7 +16,7 @@
 
 > **Un QA al que le gusta entender cómo funciona todo el sistema.**  
 > Una vez encontré un bug que permitía entregar dinero sin validación y lo bloqueé antes de producción.  
-> Desde ahí entendí que mi trabajo no es solo encontrar fallos, sino comprender por qué ocurren.
+> Me enfoco en entender cómo interactúan los componentes del sistema para diseñar pruebas automatizadas estables que realmente agilicen el despliegue a producción.
 
 🎓 Ingeniero en Sistemas.  
 🎓 Maestría en Seguridad Informática.  
